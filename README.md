@@ -1,4 +1,4 @@
-### Olá, eu sou a Naiara Santiago! 👋
+### Olá, eu sou a Naiara! 👋
 - 🔭 Não estou trabalhando atualmente
 - 🌱 Estudante de programação no instituto proa
 - 👯 Estou procurando colaborar em front-end 
