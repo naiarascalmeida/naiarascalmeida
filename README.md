@@ -1,6 +1,6 @@
 ### Olá, eu sou a Naiara Santiago! 👋
 - 🔭 Não estou trabalhando atualmente
-- 🌱 Atualmente estou aprendendo, HTML5, CSS3, Logica de programação.
+- 🌱 Estudante de programação no instituto proa
 - 👯 Estou procurando colaborar em front-end 
 - 
  ##
