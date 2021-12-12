@@ -1,7 +1,7 @@
 ### Olá, eu sou a Naiara! 👋
 - 🔭 Não estou trabalhando atualmente
 - 🌱 Estudante de programação no instituto proa
-- 👯 Estou à disposição para quaisquer esclarecimentos
+- 👯 Estou à disposição para maiores esclarecimentos
 
  ##
 
