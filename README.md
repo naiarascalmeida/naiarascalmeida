@@ -7,7 +7,7 @@
 
  <div>
   <a href="https://github.com/naiarascalmeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naiarascalmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="505" src="https://github-readme-stats.vercel.app/api?username=naiarascalmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" width="505" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiarascalmeida&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
@@ -15,8 +15,8 @@
      <img align="center" alt="Naiara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Naiara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="Naiara-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+     <img align="center" alt="Naiara-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">  
      <img align="center" alt="Naiara-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-     <img align="center" alt="Naiara-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
      <img align="center" alt="Naiara-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
      <img align="center" alt="Naiara-Photoshp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
      <img align="center" alt="Naiara-Oracle" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
