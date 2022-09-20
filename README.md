@@ -1,6 +1,6 @@
 ### Olá, eu sou a Naiara! 👋
-- 🔭 Não estou trabalhando atualmente
-- 🌱 Estudante de programação no instituto proa
+- 🔭 Consultora SAP 
+- 🌱 Estudante de técnico de computação gráfica
 - 👯 Estou à disposição para maiores esclarecimentos
 
  ##
