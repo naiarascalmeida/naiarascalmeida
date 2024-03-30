@@ -1,6 +1,6 @@
 ### Olá, eu sou a Naiara! 👋
-- 🔭 Consultora SAP 
-- 🌱 Estudante de técnico de computação gráfica
+- 🔭 Trainee
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - 👯 Estou à disposição para maiores esclarecimentos
 
  ##
