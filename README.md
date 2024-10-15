@@ -1,7 +1,7 @@
 ### Olá, eu sou a Naiara! 👋
-- 🔭 Trainee
+- 🔭 Open to work
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- 👯 Estou à disposição para maiores esclarecimentos
+- 👯 À disposição para maiores esclarecimentos
 
  ##
 
